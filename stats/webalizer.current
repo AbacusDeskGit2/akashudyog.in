@@ -1,0 +1,626 @@
+# Webalizer V2.01-10 Incremental Data - 09/24/2014 20:34:50
+2014 9 24 20 34 50
+747 647 78 58 29 45 27407735 126 98 0 0 0
+4 16 60 1 24
+6 6 390699 2 0 0 0 0
+12 1 5035 6 11 11 0 0
+9 3 8288 4 8 7 0 0
+13 13 438456 1 1 1 0 0
+33 33 1632811 3 1 1 0 0
+12 12 215501 2 1 1 0 0
+2 1 34 2 1 1 0 0
+52 52 2348315 5 6 5 0 0
+16 16 108301 1 1 1 0 0
+113 107 4090380 8 13 9 0 0
+44 32 1500533 9 13 13 0 0
+7 2 6261 5 6 6 0 0
+14 4 70262 8 12 11 0 0
+6 0 0 2 6 5 0 0
+54 51 2489019 4 5 3 0 0
+1 1 58832 1 0 0 0 0
+4 3 117939 3 1 1 0 0
+47 40 1738001 5 10 8 0 0
+5 4 3430 4 2 2 0 0
+107 76 3662987 16 10 5 0 0
+42 42 2228012 2 5 2 0 0
+0 0 0 0 0 0 0 0
+91 91 4399837 6 9 3 0 0
+57 57 1894802 4 4 2 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+43 37 1907818 10 0 0
+4 0 0 4 0 0
+4 1 34 3 0 0
+1 0 0 1 0 0
+2 0 0 2 0 0
+5 1 34 4 0 0
+2 0 0 2 0 0
+2 0 0 2 0 0
+1 0 0 1 0 0
+46 46 2149167 4 0 0
+38 36 1932763 4 0 0
+43 42 1670671 5 0 0
+120 119 5209914 11 0 0
+98 64 4765321 8 0 0
+29 28 323802 3 0 0
+90 86 2659324 13 0 0
+25 20 505678 8 0 0
+9 5 135528 7 0 0
+41 38 1860539 7 0 0
+9 7 392726 3 0 0
+70 65 1783291 8 0 0
+50 48 2052191 5 0 0
+8 2 68 6 0 0
+7 2 58866 5 0 0
+0
+0
+0
+647
+0
+0
+0
+0
+0
+34
+0
+0
+0
+0
+66
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/engine1/style.css
+0 12 0 16380 0 0 0 0
+/
+0 35 0 68422 28 6 0 0
+/images/infrastructure.jpg
+1 16 0 754020 0 0 0 0
+/quality.html
+0 11 0 1566 9 5 0 0
+/engine1/script.js
+0 13 0 8885 0 0 0 0
+/images/process.jpg
+1 3 0 267042 0 0 0 0
+/process.html
+0 7 0 5568 4 2 0 0
+/engine1/bullet.png
+1 12 0 40560 0 0 0 0
+/Customer-Care.php
+0 3 0 417 1 0 0 0
+/images/call.jpg
+1 10 0 42160 0 0 0 0
+/images/nav_li.jpg
+1 22 0 96712 0 0 0 0
+/engine1/wowslider.js
+0 13 0 84655 0 0 0 0
+/images/facebook.jpg
+1 22 0 124586 0 0 0 0
+/contact.html
+0 22 0 23200 18 5 0 0
+/engine1/jquery.js
+0 13 0 494796 0 0 0 0
+/images/raw.jpg
+1 3 0 192858 0 0 0 0
+/images/soap2.jpg
+1 14 0 767949 0 0 0 0
+/images/fax.jpg
+1 10 0 44590 0 0 0 0
+/product.html
+0 23 0 7548 22 5 0 0
+/data1/images/3.jpg
+1 14 0 3783693 0 0 0 0
+/images/twitter.jpg
+1 22 0 125598 0 0 0 0
+/images/banner7.jpg
+1 1 0 150816 0 0 0 0
+/css/style.css
+0 23 0 40802 0 0 0 0
+/images/5bhai.jpg
+1 6 0 576342 0 0 0 0
+/data1/images/2.jpg
+1 14 0 3843610 0 0 0 0
+/robots.txt
+0 17 0 538 0 0 0 0
+/images/quality.jpg
+1 14 0 711793 0 0 0 0
+/engine1/triangle.png
+1 2 0 5826 0 0 0 0
+/images/banner6.jpg
+1 4 0 435060 0 0 0 0
+/images/youtube.jpg
+1 23 0 147614 0 0 0 0
+/data1/images/1.jpg
+1 14 0 4544414 0 0 0 0
+/favicon.ico
+0 22 0 161876 0 0 0 0
+/images/address.jpg
+1 10 0 41280 0 0 0 0
+/images/banner5.jpg
+1 1 0 64508 0 0 0 0
+/images/certificate.jpg
+1 14 0 1402782 0 0 0 0
+/images/infra1.jpg
+1 1 0 60822 0 0 0 0
+/infrastructure.html
+0 5 0 1780 4 2 0 0
+/images/soap.jpg
+1 25 0 1361445 0 0 0 0
+/images/network.jpg
+1 14 0 1003162 0 0 0 0
+/images/phn_icon.png
+1 22 0 73876 0 0 0 0
+/images/social.jpg
+1 10 0 42740 0 0 0 0
+/images/enquiry.jpg
+1 15 0 394448 0 0 0 0
+/data1/tooltips/3.jpg
+1 14 0 28364 0 0 0 0
+/images/banner.jpg
+1 3 0 688518 0 0 0 0
+/images/banner2.jpg
+1 6 0 1444986 0 0 0 0
+/images/nav.jpg
+1 22 0 95810 0 0 0 0
+/engine1/arrows.png
+1 11 0 35739 0 0 0 0
+/images/arrow.png
+1 1 0 1109 0 0 0 0
+/data1/tooltips/2.jpg
+1 14 0 25648 0 0 0 0
+/images/dealer.jpg
+1 14 0 290775 0 0 0 0
+/images/banner1.jpg
+1 5 0 382425 0 0 0 0
+/about_us.html
+0 7 0 7940 3 0 0 0
+/data1/tooltips/1.jpg
+1 14 0 135854 0 0 0 0
+/images/logo.jpg
+1 24 0 915913 0 0 0 0
+/dealer.html
+0 13 0 20006 9 3 0 0
+/images/message.jpg
+1 10 0 43710 0 0 0 0
+/images/more_button.jpg
+1 18 0 109278 0 0 0 0
+/images/product.jpg
+1 14 0 1164921 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.69.240
+0 1 1 34 0 0
+- 0 0
+66.249.78.41
+0 2 0 0 2 1410478562
+- 0 0
+64.246.165.200
+0 2 2 2041 1 1411297539
+- 0 0
+66.249.82.108
+0 10 10 149311 1 1410015127
+- 0 0
+115.111.246.51
+0 2 2 117905 0 0
+- 0 0
+66.249.78.48
+0 3 0 0 3 1410482529
+- 0 0
+66.249.78.55
+0 1 1 34 0 0
+- 0 0
+27.61.129.98
+0 35 35 1895364 1 1410135453
+- 0 0
+207.102.138.3
+0 32 32 1610339 1 1411507948
+- 0 0
+182.64.27.125
+0 13 13 438456 1 1410784637
+- 0 0
+192.170.156.99
+0 2 2 8254 1 1409762390
+- 0 0
+122.177.124.235
+0 23 23 548588 1 1410364488
+- 0 0
+1.39.13.74
+0 16 16 108301 1 1411228092
+- 0 0
+80.216.42.79
+0 13 13 438456 1 1410193752
+- 0 0
+93.186.202.241
+0 1 1 5698 1 1410630508
+- 0 0
+223.176.206.92
+0 22 22 527368 1 1410352957
+- 0 0
+182.71.114.38
+0 1 1 58832 0 0
+- 0 0
+1.39.14.253
+0 16 16 108301 1 1411224613
+- 0 0
+117.55.243.22
+0 2 2 117905 0 0
+- 0 0
+106.204.122.133
+0 1 1 58832 0 0
+- 0 0
+182.64.86.21
+0 37 37 1932624 1 1410776897
+- 0 0
+101.58.218.84
+0 46 46 2090474 1 1411466663
+- 0 0
+66.249.65.53
+0 1 1 34 0 0
+- 0 0
+66.249.65.61
+0 1 0 0 1 1411158964
+- 0 0
+69.171.235.114
+0 3 3 182950 0 0
+- 0 0
+69.171.235.115
+0 3 3 368861 0 0
+- 0 0
+69.171.235.116
+0 2 2 358636 0 0
+- 0 0
+69.171.235.118
+0 3 3 118281 0 0
+- 0 0
+69.171.235.119
+0 3 3 384069 0 0
+- 0 0
+54.234.5.217
+0 1 1 6227 1 1410541232
+- 0 0
+59.89.110.91
+0 43 43 1818340 1 1411225845
+- 0 0
+66.249.79.121
+0 2 1 34 1 1410401547
+- 0 0
+115.252.92.68
+0 1 1 58832 0 0
+- 0 0
+14.141.115.182
+0 1 1 58832 0 0
+- 0 0
+59.91.103.199
+0 2 2 117905 0 0
+- 0 0
+66.249.67.105
+0 10 2 68 7 1410594454
+- 0 0
+66.249.67.113
+0 5 0 0 5 1410589613
+- 0 0
+66.249.67.121
+0 8 1 34 7 1410586633
+- 0 0
+106.215.251.252
+0 16 16 108301 1 1410295771
+- 0 0
+64.246.165.160
+0 2 2 2041 1 1410184080
+- 0 0
+150.70.97.98
+0 1 1 6227 1 1410135724
+- 0 0
+66.249.65.105
+0 7 2 68 5 1411064881
+- 0 0
+117.214.190.242
+0 2 2 66190 0 0
+- 0 0
+66.249.65.113
+0 2 1 34 1 1410068520
+- 0 0
+5.9.88.82
+0 29 29 1500431 1 1410459478
+- 0 0
+66.249.65.121
+0 1 0 0 1 1410385438
+- 0 0
+115.184.127.244
+0 3 3 213962 0 0
+- 0 0
+117.253.205.213
+0 40 40 2225971 1 1411301432
+- 0 0
+117.198.219.149
+0 39 39 1737967 1 1411043045
+- 0 0
+182.68.225.226
+0 4 4 272794 0 0
+- 0 0
+66.249.64.101
+0 11 2 68 8 1411055834
+- 0 0
+66.249.64.105
+0 11 0 0 11 1411053988
+- 0 0
+66.249.64.109
+0 9 2 68 7 1411061558
+- 0 0
+103.255.232.11
+0 2 2 66190 0 0
+- 0 0
+150.70.75.206
+0 1 1 6227 1 1410135686
+- 0 0
+66.249.64.125
+0 2 0 0 2 1409677490
+- 0 0
+5.9.188.247
+0 1 1 2027 1 1411241772
+- 0 0
+66.249.64.130
+0 1 0 0 1 1409674610
+- 0 0
+66.249.64.135
+0 3 1 34 2 1409680850
+- 0 0
+106.215.208.57
+0 38 38 1609764 1 1411557795
+/dealer.html 0 0
+210.56.119.69
+0 2 2 117905 0 0
+- 0 0
+182.68.79.78
+0 2 2 66190 0 0
+- 0 0
+69.171.230.112
+0 2 2 18000 0 0
+- 0 0
+69.171.230.114
+0 1 1 9000 0 0
+- 0 0
+69.171.230.115
+0 2 2 11027 1 1411219954
+- 0 0
+69.171.230.116
+0 3 3 12858 0 0
+- 0 0
+69.171.230.117
+0 3 3 27000 0 0
+- 0 0
+69.171.230.118
+0 5 5 126336 0 0
+- 0 0
+69.171.230.119
+0 1 1 9000 0 0
+- 0 0
+115.254.212.155
+0 7 7 360040 1 1411498121
+- 0 0
+115.112.111.158
+0 13 13 438456 1 1409866583
+- 0 0
+106.215.194.158
+0 16 16 108301 1 1411590872
+/contact.html 0 0
+182.68.77.117
+0 60 60 3014356 1 1410356629
+- 0 0
+66.249.69.209
+0 2 2 3362 1 1411162911
+- 0 0
+148.251.75.46
+0 1 1 5698 1 1410630525
+- 0 0
+86.110.226.29
+0 1 1 5001 1 1409665799
+- 0 0
+1.39.25.186
+0 1 1 58832 0 0
+- 0 0
+182.64.75.35
+0 30 30 1507789 1 1409947778
+- 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+115.252.92.68
+0 1 1 58832 0 0
+- 0 0
+59.91.103.199
+0 2 2 117905 0 0
+- 0 0
+106.215.208.57
+0 38 38 1609764 1 1411557795
+/dealer.html 0 0
+106.215.194.158
+0 16 16 108301 1 1411590872
+/contact.html 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+http://akashudyog.in/engine1/style.css
+1 3
+https://www.google.se/
+0 2
+- (Direct Request)
+0 153
+http://www.google.co.in/url
+0 3
+http://www.akashudyog.in/process.html
+1 8
+http://www.google.com/m
+0 1
+http://akashudyog.in/css/style.css
+1 14
+http://akashudyog.in/
+1 67
+http://www.akashudyog.in/
+1 150
+http://www.akashudyog.in/contact.html
+1 118
+http://www.google.com/search
+0 1
+http://whois.domaintools.com/akashudyog.in
+1 2
+http://www.akashudyog.in/product.html
+1 48
+https://www.facebook.com/
+0 1
+http://www.akashudyog.in/css/style.css
+1 28
+http://www.akashudyog.in/dealer.html
+1 17
+http://akashudyog.in/process.html
+1 4
+http://www.google.co.in/search
+0 2
+http://abacusdesk.co.in/crm/index.php
+0 1
+http://akashudyog.in/about_us.html
+1 3
+http://www.akashudyog.in/engine1/style.css
+1 4
+http://www.akashudyog.in/about_us.html
+1 8
+https://www.google.co.in/
+0 17
+http://akashudyog.in/infrastructure.html
+1 2
+http://www.akashudyog.in/images/soap.jpg
+1 1
+http://www.akashudyog.in/index.html
+1 57
+bing.com
+0 29
+http://www.google.co.in/blank.html
+0 1
+http://www.akashudyog.in/quality.html
+1 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 52
+Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
+0 10
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 33
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.2 Safari/534.34
+0 29
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 30
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+0 40
+Java/1.7.0_09
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+0 43
+Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; GT-S5302 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
+0 36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/12.0.702.0 Safari/534.24
+0 1
+Mozilla/5.0 (Linux; Android 4.2.2; C2305 Build/16.0.B.0.21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 36
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.2) Gecko/20060911 SUSE/2.0.0.2-2.13 Firefox/2.0.0.2
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 35
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 39
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 2
+Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; GT-I8150 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
+0 32
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 81
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 31
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 13
+Mozilla/5.0 (Linux; Android 4.4.4; XT1033 Build/KXB21.14-L1.40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 M
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+0 29
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.114 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; U; Android 4.0.4; en-in; SonyST21i Build/11.0.A.4.27) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 2
+lwp-request/5.827 libwww-perl/5.833
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0
+0 13
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; D5322 Build/19.1.C.0.116) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobil
+0 54
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 40
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) GSA/4.1.0.31802 Mobile/11D25
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 30
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 1
+AndroidDownloadManager
+0 1
+# End Of Table - agents
+# -search strings- 
+customersupport@akashudyog.in
+2
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
